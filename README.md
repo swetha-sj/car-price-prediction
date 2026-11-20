@@ -28,7 +28,7 @@ This project focuses on predicting the selling price of cars using machine learn
 4. Run the cells sequentially.
 
 ## Author
-Swetha.k
-tejaswini gowda 
-soumya
+Swetha.k ,
+tejaswini gowda ,
+soumya ,
 stella.k
